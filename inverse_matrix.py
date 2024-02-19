@@ -4,6 +4,14 @@ import numpy as np
 from matrix_utility import partial_pivoting
 
 """
+date:19/2/24
+group members: (1) name: Shulamit-mor-yossef. id: 206576977. (2) name: Zohar-monsonego. id: 214067662. (3) name: hodaya-shirazie. id: 213907785.
+submitted by: name: Zohar Monsonego. id: 214067662.
+input: 
+output:
+"""
+
+"""
 Function that find the inverse of non-singular matrix
 The function performs elementary row operations to transform it into the identity matrix. 
 The resulting identity matrix will be the inverse of the input matrix if it is non-singular.
